@@ -1,0 +1,10 @@
+{
+	"from" : "1.3",
+	"to"   : "1.4",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/plane1.jpg",
+					"newPath" : "",
+					"redownload" : false,
+					"rename"     : false
+				  }
+				 ]
+}
