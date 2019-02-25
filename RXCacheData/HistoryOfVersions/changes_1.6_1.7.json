@@ -1,0 +1,15 @@
+{
+	"from" : "1.6",
+	"to"   : "1.7",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/contract.pdf",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder1/contract.pdf",
+					"redownload" : false,
+					"rename"     : false
+				  },
+				  {	"oldPath" : "",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder4/SubFolder4",
+					"redownload" : false,
+					"rename"     : false
+				  }
+				 ]
+}
