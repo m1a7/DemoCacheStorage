@@ -1,3 +1,4 @@
 {
-	"changesByVersion"   : ["https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.0_1.1.json"]
+	"changesByVersion"   : ["https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.0_1.1.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.1_1.2.json"]
 }
