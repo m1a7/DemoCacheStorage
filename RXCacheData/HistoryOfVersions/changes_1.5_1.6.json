@@ -1,0 +1,10 @@
+{
+	"from" : "1.5",
+	"to"   : "1.6",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder2",
+					"newPath" : "",
+					"redownload" : false,
+					"rename"     : false
+				  }
+				 ]
+}
