@@ -1,0 +1,15 @@
+{
+	"from" : "1.1",
+	"to"   : "1.2",
+	"changes" : [{	"oldPath" : "",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder1/schoolRaport.txt",
+					"redownload" : false,
+					"rename"     : false
+				  },
+				  {	"oldPath" : "",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder2/SubFolder2/unversityRaport.txt",
+					"redownload" : false,
+					"rename"     : false
+				  }
+				 ]
+}

@@ -1,3 +1,12 @@
 {
-	"changesByVersion"   : []
+	"changesByVersion"   : ["https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.0_1.1.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.1_1.2.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.2_1.3.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.3_1.4.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.4_1.5.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.5_1.6.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.6_1.7.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.7_1.8.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.8_1.9.json",
+						    "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheData/HistoryOfVersions/changes_1.9_2.1.json"]
 }
