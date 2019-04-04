@@ -1,0 +1,10 @@
+{
+  "actualCacheVersion"		: "2.2",
+  "minimalCacheVersion"		: "1.0",
+  
+  "URLatListOfURLsToUpdatesByVersion": "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheConfig/listOfURLsToUpdatesByVersion.json",
+  "urlAtZipArchiveOfCacheContent"	 : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent.zip",
+  
+  "zippedArchiveSizeInMB"	: "0.27",
+  "unzippedArchiveSizeInMB" : "0.311"
+}
