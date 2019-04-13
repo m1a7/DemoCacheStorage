@@ -22,7 +22,7 @@
 					"rename"     : false
 				  },
 				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/secret.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Secret.txt",
 					"redownload" : false,
 					"rename"     : false
 				  }
