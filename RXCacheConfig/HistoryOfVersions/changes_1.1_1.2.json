@@ -1,15 +1,36 @@
 {
 	"from" : "1.1",
 	"to"   : "1.2",
-	"changes" : [{	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder1/schoolRaport.txt",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder6",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder4/Folder6",
 					"redownload" : false,
 					"rename"     : false
 				  },
-				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder2/SubFolder2/unversityRaport.txt",
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder7/myVacation2.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder1/SubFolder1/myVacation2.txt",
 					"redownload" : false,
 					"rename"     : false
-				  }
+				  },
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder3",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5/Folder3",
+					"redownload" : false,
+					"rename"     : false
+				  },
+
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Secret.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5/Secret.txt",
+					"redownload" : false,
+					"rename"     : false
+				  },
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/raport.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Documents/raport.txt",
+					"redownload" : false,
+					"rename"     : false
+				  },
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/esse.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/TextDocuments/SchoolDocs/esse.txt",
+					"redownload" : false,
+					"rename"     : false
+				  } 
 				 ]
 }
