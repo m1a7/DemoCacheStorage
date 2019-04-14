@@ -1,5 +1,5 @@
 {
-  "actualCacheVersion"		: "1.3",
+  "actualCacheVersion"		: "1.4",
   "minimalCacheVersion"		: "1.0",
   
   "urlAtListOfURLsToUpdatesByVersion": "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheConfig/listOfURLsToUpdatesByVersion.json",
