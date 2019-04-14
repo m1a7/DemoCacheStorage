@@ -19,10 +19,17 @@
 					"isDeepFolderRedownload"     : true
 				  },
 
-				   {"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/esse.txt",
+				   {"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/TextDocuments/SchoolDocs/esse.txt",
 					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder7/SubFolder7/esse.txt",
 					"redownload" : true,
 					"rename"     : false
+				  },
+				    {	
+				   	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder7",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder7",
+					"redownload" : true,
+					"rename"     : false,
+					"isDeepFolderRedownload" : true
 				  }
 				 ]
 }
