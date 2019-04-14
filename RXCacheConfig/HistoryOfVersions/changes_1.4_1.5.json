@@ -1,15 +1,15 @@
 {
 	"from" : "1.4",
 	"to"   : "1.5",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder3/SubFolder3",
-					"newPath" : "",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/ship.jpg",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/myShip.jpg",
 					"redownload" : false,
-					"rename"     : false
+					"rename"     : true
 				  },
-				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder3/SubFolder3WithoutFile",
-					"newPath" : "",
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder2/SubFolder2",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder2/MySubFolder2",
 					"redownload" : false,
-					"rename"     : false
+					"rename"     : true
 				  }
 				 ]
 }
