@@ -1,12 +1,17 @@
 {
 	"from" : "1.3",
 	"to"   : "1.4",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/analize.txt",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder3",
 					"newPath" : "",
 					"redownload" : false,
 					"rename"     : false
 				  },
-				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder1",
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder7",
+					"newPath" : "",
+					"redownload" : false,
+					"rename"     : false
+				  },
+				   {"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder6/esse.txt",
 					"newPath" : "",
 					"redownload" : false,
 					"rename"     : false
