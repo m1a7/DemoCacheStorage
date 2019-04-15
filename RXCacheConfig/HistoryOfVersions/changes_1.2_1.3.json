@@ -10,6 +10,12 @@
 					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/ship.jpg",
 					"redownload" : true,
 					"rename"     : false
+				  },
+				    
+				    {"oldPath" : "",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/pillow.gif",
+					"redownload" : false,
+					"rename"     : false
 				  }
 				 ]
 }
