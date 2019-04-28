@@ -1,17 +1,17 @@
 {
 	"from" : "1.3",
 	"to"   : "1.4",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder3",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder3",
 					"newPath" : "",
 					"redownload" : false,
 					"rename"     : false
 				  },
-				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder7",
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder7",
 					"newPath" : "",
 					"redownload" : false,
 					"rename"     : false
 				  },
-				   {"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder6/esse.txt",
+				   {"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder6/esse.txt",
 					"newPath" : "",
 					"redownload" : false,
 					"rename"     : false

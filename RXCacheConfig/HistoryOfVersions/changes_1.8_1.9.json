@@ -1,23 +1,23 @@
 {
 	"from" : "1.8",
 	"to"   : "1.9",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder4/text.txt",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder4/text.txt",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder4/text.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder4/text.txt",
 					"redownload" : true,
 					"rename"     : false
 				  },
 				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5/raport5.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder5/raport5.txt",
 					"redownload" : false,
 					"rename"     : false
 				  },
 				 {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5/plane5.jpg",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder5/plane5.jpg",
 					"redownload" : false,
 					"rename"     : false
 				  },
 				  	 {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5/SubFolder5/secretRaport.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder5/SubFolder5/secretRaport.txt",
 					"redownload" : false,
 					"rename"     : false
 				  },

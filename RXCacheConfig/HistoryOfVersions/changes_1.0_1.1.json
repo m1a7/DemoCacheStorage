@@ -2,22 +2,22 @@
 	"from" : "1.0",
 	"to"   : "1.1",
 	"changes" : [{	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder7",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder7",
 					"redownload" : false,
 					"rename"     : false
 				  },
 				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder6",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder6",
 					"redownload" : false,
 					"rename"     : false
 				  },
 				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder4/AddedSubFolder4",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder4/AddedSubFolder4",
 					"redownload" : false,
 					"rename"     : false
 				  },
 				  {	"oldPath" : "",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/addedRaport.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/addedRaport.txt",
 					"redownload" : false,
 					"rename"     : false
 				  }

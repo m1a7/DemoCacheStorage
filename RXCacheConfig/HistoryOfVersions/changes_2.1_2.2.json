@@ -1,8 +1,8 @@
 {
 	"from" : "2.1",
 	"to"   : "2.2",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/MyFolder5",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/MyFolder5",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/MyFolder5",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/MyFolder5",
 					"redownload" : true,
 					"rename"     : false,
 					"isDeepFolderRedownload"     : true

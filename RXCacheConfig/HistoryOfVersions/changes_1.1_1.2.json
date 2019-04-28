@@ -1,13 +1,13 @@
 {
 	"from" : "1.1",
 	"to"   : "1.2",
-	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/Folder5",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder6/Folder5",
+	"changes" : [{	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/Folder5",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder6/Folder5",
 					"redownload" : false,
 					"rename"     : false
 				  },
-				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/esse.txt",
-					"newPath" : "https://raw.githubusercontent.com/m1a7/gitCache/master/RXCacheContent/AddedFolder6/esse.txt",
+				  {	"oldPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/esse.txt",
+					"newPath" : "https://raw.githubusercontent.com/m1a7/DemoCacheStorage/master/RXCacheContent/AddedFolder6/esse.txt",
 					"redownload" : false,
 					"rename"     : false
 				  }
